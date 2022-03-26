@@ -1,2 +1,2 @@
 # Personal-Projects
-Personnal data visualisations for sports.
+A summary of my little personnal projects.
